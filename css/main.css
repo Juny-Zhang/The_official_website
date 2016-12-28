@@ -1,0 +1,471 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+a {
+	text-decoration: none;
+}
+/*页眉*/
+.page_header {
+	width: 100%;
+	height: 186px;
+	background-color: #ffffff;
+}
+
+.page_header_1180 {
+	width: 1180px;
+	height: 186px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+
+.logo {
+	padding-top: 30px;
+	float: left;
+}
+
+.search_box {
+	width: 204px;
+	height: 32px;
+	border:1px solid #909090;
+	float: right;
+	margin-top: 53px;
+}
+
+.search_img {
+	margin-top: 0px;
+	float: right;
+	margin-top: 60px;
+	margin-left: 10px;
+}
+
+.Navigation {
+
+	float: right;
+	background-color: #ffffff;
+	margin-right: -136px;
+	margin-top: 140px;
+}
+
+.Navigation span {
+	width: 67px;
+	height: 17px;
+	font-family: MicrosoftYaHei;
+	font-size: 16px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	letter-spacing: 1px;
+	text-align: left;
+	color: #000000;
+}
+
+/*banner*/
+.banner {
+	width: 100%;
+	height: 670px;
+	background-color: #ffffff;
+}
+
+.banner_img {
+	width: 100%;
+	height: 670px;
+}
+
+.banner_text {
+	width: 860px;
+	height: 90px;
+	background-color:  #ae7e22;
+	float: right;
+	position: relative;
+	bottom: 50px;
+
+}
+
+.banner_text_box {
+	margin-top: 18px;
+	margin-left: 40px;
+}
+
+.banner_text1 {
+	font-size: 18px;
+	letter-spacing: 1.2px;
+	color: #ffffff;
+	font-style: "黑体"
+}
+
+.banner_text2 {
+	font-size: 14px;
+	letter-spacing: 1.2px;
+	color: #ffffff;
+	font-style: "微软雅黑"
+}
+
+/*君酒*/
+.Alcohol {
+	width: 100%;
+	background-color: #fff;
+}
+
+.Alcohol_box {
+	width: 1180px;
+	height: 690px;
+	background-color: #ffffff;
+	margin: auto;
+}
+
+.Alcohol_box_one {
+	padding-top: 100px;
+}
+.Alcohol_box1 {
+	width: 244px;
+	height: 590px;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 0px;
+
+}
+.Alcohol_box2 {
+	width: 244px;
+	height: 590px;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 68px;
+}
+
+.Alcohol_box3 {
+	width: 244px;
+	height: 590px;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 68px;
+}
+
+.Alcohol_box4 {
+	width: 244px;
+	height: 590px;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 68px;
+}
+
+.Alcohol_box1 img {
+	margin-left: -86px;
+	margin-top: 24px;
+}
+.Alcohol_box2 img {
+	margin-left: -86px;
+	margin-top: 24px;
+}
+.Alcohol_box3 img {
+	margin-left: -86px;
+	margin-top: 24px;
+}
+.Alcohol_box4 img {
+	margin-left: -86px;
+}
+
+.Alcohol_box1_rectangle {
+  width: 40px;
+  height: 4px;
+  background-color: #4c4c4c;
+}
+
+.Alcohol_box1 span {
+  width: 33px;
+  height: 16px;
+  font-family: MicrosoftYaHei;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #323232;
+}
+.Alcohol_box2 span {
+  width: 33px;
+  height: 16px;
+  font-family: MicrosoftYaHei;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #323232;
+}
+.Alcohol_box3 span {
+  width: 33px;
+  height: 16px;
+  font-family: MicrosoftYaHei;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #323232;
+}
+.Alcohol_box4 span {
+  width: 33px;
+  height: 16px;
+  font-family: MicrosoftYaHei;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #323232;
+}
+
+.Alcohol_box1 p {
+  width: 204px;
+  height: 88px;
+  opacity: 0.8;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.8px;
+  text-align: left;
+  line-height: 21px;
+  color: rgba(50, 50, 50, 0.8);
+}
+
+.Alcohol_box2 p {
+  width: 211px;
+  height: 88px;
+  opacity: 0.8;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.8px;
+  text-align: left;
+   line-height: 21px;
+  color: rgba(50, 50, 50, 0.8);
+}
+
+.Alcohol_box3 p {
+  width: 205px;
+  height: 88px;
+  opacity: 0.8;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.8px;
+  text-align: left;
+  line-height: 21px;
+  color: rgba(50, 50, 50, 0.8);
+
+}
+.Alcohol_box4 p {
+  width: 216px;
+  height: 88px;
+  opacity: 0.8;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.8px;
+  text-align: left;
+  line-height: 21px;
+  color: rgba(50, 50, 50, 0.8);
+}
+
+/*新闻中心*/
+.news {
+  width: 100%;
+  height: 503px;
+  background-color: #f9f9f9;
+}
+
+.news_box {
+	width: 1180px;
+	height: 503px;
+	background-color: #f9f9f9;
+	margin:auto;
+
+}
+
+.news_box_press {
+
+  width: 181px;
+  height: 14px;
+  font-family: "黑体";
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #323232;
+  display: block;
+  padding-top: 58px;
+}
+
+
+.news_image {
+	padding-top: 53px;
+	float: left;
+}
+
+.news_box_years {
+	float: left;
+	margin-left: 23px;
+	margin-top: 71px;
+}
+.news_box_Month {
+	margin-top: 85px;
+	margin-left: 223px;
+}
+
+.news_box_Fair {
+	margin-top: 23px;
+	margin-left: 223px;
+}
+
+.news_box_content {
+	float: left;
+	margin-left: 23px;
+	margin-top: 23px;
+	background-color: #f9f9f9;
+}
+.news_box_content p {
+  width: 348px;
+  height: 63px;
+  font-family: "黑体";
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.8px;
+  text-align: left;
+  line-height: 21px;
+  text-indent: 2em;
+  color: #323232;
+}
+
+.news_box_button {
+	width: 114px;
+  	height: 37px;
+	margin-left: 223px;
+	margin-top: 140px;
+}
+
+.news_box_button1 {
+  width: 114px;
+  height: 37px;
+  opacity: 0.5;
+  background-color: #f9f9f9;
+  border: solid 1px #323232;
+
+}
+.news_box_more {
+	width: 32px;
+  	height: 16px;
+  	float: left;
+  	margin-left: 348px;
+}
+.news_box_more span {
+  width: 31px;
+  height: 12px;
+  opacity: 0.8;
+  font-family:"微软雅黑";
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  text-align: left;
+  color: rgba(50, 50, 50, 0.8);
+}
+.customary_service {
+	float: left;
+	width: 400px;
+	height: 400px;
+	background-color: #f9f9f9;
+	margin-top: -408px;
+	margin-left: 422px;
+}
+
+table span {
+  width: 65px;
+  height: 16px;
+  font-family: "黑体";
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #323232;
+}
+
+/*页脚*/
+.footer {
+  width: 100%;
+  height: 245px;
+  background-color: #363636;
+}
+
+.footer_box {
+	width: 1180px;
+	height: 245px;
+	margin: auto;
+	background-color: #363636;
+}
+.footer_Hotline {
+	float: left;
+	width: 197px;
+    height: 17px;
+    padding-top: 34px;
+    padding-left: : 100px;
+}
+
+.footer_weixin {
+	float: left;
+	 width: 68px;
+    height: 16px;
+    padding-top: 34px;
+    padding-left: 303px;
+}
+.footer_service {
+	float: left;
+	width: 68px;
+  height: 16px;
+  padding-top: 34px;
+  padding-left: 332px;
+}
+
+.footer_add {
+	float: left;
+	clear: left;
+	padding-top: 84px;
+}
+
+.footer_focus {
+	width: 60px;
+   height: 16px;
+   float: left;
+	padding-left: 275px;
+	padding-top: 84px;
+
+}
+.footer span {
+  font-family:"微软雅黑";
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  text-align: left; 
+  color: #fafafa;
+}
